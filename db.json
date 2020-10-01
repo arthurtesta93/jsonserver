@@ -1,0 +1,27 @@
+ { 
+  "inputs": { 
+    "RH_IN:largura": 15.0,
+    "RH_IN:profundidade": 25.0,
+    "RH_IN:indiceap": 3,
+    "RH_IN:indiceapmax": 3.0,
+    "RH_IN:solocriado": 0.0,
+    "RH_IN:alturamax": 25.6,
+    "RH_IN:confirmaAnexo": 0,
+    "RH_IN:altmaxdiv": 12.5,
+    "RH_IN:altmaxbase": 4.0,
+    "RH_IN:taxaocupacao:": 75,
+    "RH_IN:recuofrontal:": 4.0,
+    "RH_IN:confirmaEstacionamento": 1,
+    "RH_IN:recuolateralestacionamento": 2.5,
+    "RH_IN:pedireitomincorpo": 2.3,
+    "RH_IN:pedireitomaxcorpo": 5.0,
+    "RH_IN:larguraminimacorpo": 5.0,
+    "RH_IN:pedireitominbase": 2.6,
+    "RH_IN:pedireitomaxbase": 5.0,
+    "RH_IN:tamanhounidade": 25,
+    "RH_IN:circulacaominima": 2.0,
+    "RH_IN:precometroquadrado": 12548.8,
+    "RH_IN:adicaoporcentagem": 2,
+    "RH_IN:areareservada:": 100
+  }
+}
